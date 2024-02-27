@@ -1,0 +1,3 @@
+Day 1: Hello World Web Page
+
+Create a simple HTML page and use JavaScript to display "Hello, World!" on it.
